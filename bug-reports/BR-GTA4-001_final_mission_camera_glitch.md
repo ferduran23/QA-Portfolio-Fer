@@ -38,3 +38,7 @@ The camera rapidly switches between angles uncontrollably during the QTE, causin
 
 - This issue only occurs on Xbox Series S/X due to increased FPS under backward compatibility.
 - Not reproducible on original Xbox 360 hardware.
+
+  ## Related Bug Report:
+[Final Mission Camera Glitch – GTA IV](https://phoebed298-1750996512500.atlassian.net/browse/QABGT-10?atlOrigin=eyJpIjoiZTNiYjU5MDEzMjk2NDU4MTg0MzQ4NGJlOTQxYmNkNjkiLCJwIjoiaiJ9)
+
