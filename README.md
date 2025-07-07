@@ -11,7 +11,8 @@ Welcome to my QA portfolio! I'm passionate about video game quality assurance an
 - [The Sims 4 – Character Takes a Selfie and Freezes](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5135bd460eabd5b97524ef0f823545ed31cbb838/test-cases/TC-SIMS4-002_selfie_freeze.md)
 
 
-🎮 About Me
+
+🎮 **About Me**
 
 I'm especially passionate about narrative-driven games like the Persona series, The Sims, Alice: Madness Returns, and other iconic titles from EA’s catalog. My goal is to work in QA for companies like Electronic Arts, where I can help polish the games I’ve loved for years. I specialize in detailed manual testing, clear bug reporting, and writing reproducible test cases that improve player experiences.
 
