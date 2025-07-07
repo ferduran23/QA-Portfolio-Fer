@@ -38,3 +38,5 @@ The pepper grinder appears to clip through Alice’s dress, making it visibly pr
 ## Notes
 
 - Weapon model appears to load visually but not functionally
+## Related Bug Report:  
+[Weapon Clipping – Alice: Madness Returns](https://phoebed298-1750996512500.atlassian.net/browse/QABGT-11?atlOrigin=eyJpIjoiZTgyYTFhNDA4OGQ2NDQ2MTg0OGE1ZWU3NmU4ZTBhOTYiLCJwIjoiaiJ9)
