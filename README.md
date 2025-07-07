@@ -9,3 +9,4 @@ Welcome to my QA portfolio! I'm passionate about video game quality assurance an
 - [Persona 5 Royal – Character Costume Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/7fcff482796b5a6e62ef6ef32564b8f1063be9ae/test-cases/costume_change_test.md)
 - [Alice Return to Madness - Weapon Clipping During Gameplay](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f0a7eade4704686fdcecdf974d9764ca24eaa97e/test-cases/weapon_clipping_test.md)
 - [The Sims 4 – Character Outfit Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/011377a4b2a717c4074015da8d756673f7d9b951/test-cases/TC-SIMS4-001_change_outfit_dresser.md)
+- [The Sims 4 – Character Takes a Selfie and Freezes](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5135bd460eabd5b97524ef0f823545ed31cbb838/test-cases/TC-SIMS4-002_selfie_freeze.md)
