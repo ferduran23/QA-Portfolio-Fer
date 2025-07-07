@@ -9,6 +9,7 @@ Welcome to my QA portfolio! I'm passionate about video game quality assurance an
 - [Alice Return to Madness - Weapon Clipping During Gameplay](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f0a7eade4704686fdcecdf974d9764ca24eaa97e/test-cases/weapon_clipping_test.md)
 - [The Sims 4 – Character Outfit Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/011377a4b2a717c4074015da8d756673f7d9b951/test-cases/TC-SIMS4-001_change_outfit_dresser.md)
 - [The Sims 4 – Character Takes a Selfie and Freezes](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5135bd460eabd5b97524ef0f823545ed31cbb838/test-cases/TC-SIMS4-002_selfie_freeze.md)
+
 🎮 About Me
 I'm especially passionate about narrative-driven games like the Persona series, The Sims, Alice: Madness Returns, and other iconic titles from EA’s catalog. My goal is to work in QA for companies like Electronic Arts, where I can help polish the games I’ve loved for years. I specialize in detailed manual testing, clear bug reporting, and writing reproducible test cases that improve player experiences.
 
