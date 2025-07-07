@@ -18,5 +18,7 @@ I'm especially passionate about narrative-driven games like the Persona series, 
 
 I’m experienced using Jira, Trello, and Notion to manage tasks, track bugs, and document testing progress. For version control, I work with Git and GitHub to organize test cases, bug reports, and collaborate on QA workflows.
 I write and maintain QA documentation using Markdown and organize data in tools like Excel and Google Sheets. I focus heavily on creating clear test case designs, detailed reproduction steps, and assigning accurate severity levels to issues.
+
 Most of my testing experience comes from working on PC, Xbox Series S, and PlayStation 5 (via backward compatibility), where I specialize in gameplay and visual bug detection.
+
 My QA strengths are in manual testing, thorough bug reproduction, exploring edge cases, and ensuring both story-driven and simulation games deliver a smooth and immersive experience for players.
