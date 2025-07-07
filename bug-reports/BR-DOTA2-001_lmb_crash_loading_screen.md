@@ -37,3 +37,6 @@ The game crashes after excessive LMB input during the loading screen.
 ## Notes
 
 - No loading bar freeze or visual feedback occurs before the crash
+  
+  ## Related Bug Report:  
+[Loading Screen Crash – Dota 2](https://phoebed298-1750996512500.atlassian.net/browse/QABGT-9?atlOrigin=eyJpIjoiOWIzNTdmNTMzZjY3NDE0NTliMDdiNzY0ZjI5MzZmYzQiLCJwIjoiaiJ9)
