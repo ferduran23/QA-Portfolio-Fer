@@ -20,4 +20,4 @@ The selected Sim changes into the chosen outfit immediately, with proper animati
 The outfit change occurs as expected. Animation plays correctly. No issues encountered.
 
 ## Status:
-Pass
+✅ Pass
