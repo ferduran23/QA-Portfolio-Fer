@@ -14,7 +14,7 @@ Welcome to my QA portfolio! I'm passionate about video game quality assurance an
 
 🎮 **About Me**
 
-I'm especially passionate about narrative-driven games like the Persona series, The Sims, Alice: Madness Returns, and other iconic titles from EA’s catalog. My goal is to work in QA for companies like Electronic Arts, where I can help polish the games I’ve loved for years. I specialize in detailed manual testing, clear bug reporting, and writing reproducible test cases that improve player experiences.
+I'm especially passionate about narrative-driven games like the Persona series, The Sims, Alice: Madness Returns, and other iconic titles from EA’s catalog. I specialize in detailed manual testing, clear bug reporting, and writing reproducible test cases that improve player experiences.
 
 I’m experienced using Jira, Trello, and Notion to manage tasks, track bugs, and document testing progress. For version control, I work with Git and GitHub to organize test cases, bug reports, and collaborate on QA workflows.
 I write and maintain QA documentation using Markdown and organize data in tools like Excel and Google Sheets. I focus heavily on creating clear test case designs, detailed reproduction steps, and assigning accurate severity levels to issues.
