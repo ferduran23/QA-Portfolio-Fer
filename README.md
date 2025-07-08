@@ -1,5 +1,11 @@
 # Fer QA Portfolio
-Welcome to my QA portfolio! I'm passionate about video game quality assurance and enjoy finding bugs while playing, writing test cases, and helping make gameplay better for everyone. Below are some of my reports and test documentation.
+Welcome to my QA portfolio! I'm passionate about video game quality assurance and enjoy finding bugs while playing, writing test cases, and helping make gameplay better for everyone. 
+
+## 📄 Resume
+You can view or download my QA CV [here]([./Fernanda_Duran_QA_CV_2025.pdf](https://github.com/ferduran23/QA-Portfolio-Fer/blob/323b74f4e52bf3a3c9272eac181a7f2cb51b9e9b/Fernanda_Duran_QA_CV.pdf)).
+
+Below are some of my reports and test documentation.
+
 ## Bug Reports
 - [GTA IV – Final Mission Helicopter Bug](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f13a09e38c903711eca7219c4e74ce277a302f40/bug-reports/BR-GTA4-001_final_mission_camera_glitch.md)
 - [Alice Madness Returns – Character Model Clipping](https://github.com/ferduran23/QA-Portfolio-Fer/blob/9a86373812466b72f6910091ba630a61cb44e6b9/bug-reports/BR-AMR-001_weapon_clipping.md)
