@@ -1,41 +1,38 @@
-Sims 4 - Sims with custom tattoos are becoming pitch black (Windows/Mac)
+# Sims 4 - Sims with custom tattoos are becoming pitch black (Windows/Mac)
 
-ID: BR-SIMS4-003
+**ID**: BR-SIMS4-003
 
-Title: Sims 4 - Sims with custom tattoos are becoming pitch black
+**Title**: Sims 4 - Sims with custom tattoos are becoming pitch black
 
-Severity: High
+**Severity**: High
 
-Reproducibility: 5/5
+**Reproducibility**: 5/5
 
-Platform: PC
+**Platform**: PC
 
-Game Version: v.1.116.202.1030
+**Game Version**: v.1.116.202.1030
 
-Camera: Third-person (default gameplay camera)
+**Camera**: Third-person (default gameplay camera)
 
-Description
+# Description
 
 In the gameplay, when user adds custom tattoos to their sims, sims become pitch black
 
-Steps to Reproduce
+# Steps to Reproduce
 
-Launch Sims 4 v.1.116.202.1030 on PC
+1. Launch Sims 4 v.1.116.202.1030 on PC
+2. Create a new game
+3. Create a sim in CAS and add custom tattoos
+4. Save and observe the sim becoming pitch black throughout the game
 
-Create a new game
-
-Create a sim in CAS and add custom tattoos
-
-Save and observe the sim becoming pitch black throughout the game
-
-Expected Result
+# Expected Result
 
 The sims can have custom tattoos without modifying sim's nomenclature
 
-Actual Result
+# Actual Result
 
 Once the sim has custom tattoos, sim become pitch black
 
-Attachments
+# Attachments
 
  Screenshot: pitch_black_gameplay.jpg
