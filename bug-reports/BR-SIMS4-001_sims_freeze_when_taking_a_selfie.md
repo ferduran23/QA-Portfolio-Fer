@@ -18,7 +18,7 @@
 
 After a Sim takes a selfie using their phone in Live Mode, they become unresponsive and freeze in place. The Sim is unable to perform any further actions, and queued interactions are ignored. This issue persists until the game is reloaded or the Sim is reset using cheats. The bug occurs consistently across different households and save files.
 
-## Steps to Reproduce:
+# Steps to Reproduce:
 1. Launch The Sims 4  
 2. Load any household  
 3. Select an active Sim  
@@ -26,10 +26,10 @@ After a Sim takes a selfie using their phone in Live Mode, they become unrespons
 5. Select “Take Selfie” from the camera options  
 6. Complete the selfie process  
 
-## Expected Result:
+# Expected Result:
 The Sim takes the selfie, then returns to idle or continues gameplay normally.
 
-## Actual Result:
+# Actual Result:
 After the selfie, the Sim becomes unresponsive and freezes in place. Time and UI remain functional, but the Sim does not resume behavior or respond to player commands.
 
 # Attachments:
