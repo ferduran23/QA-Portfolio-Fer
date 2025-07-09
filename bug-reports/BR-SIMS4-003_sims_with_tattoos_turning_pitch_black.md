@@ -36,4 +36,5 @@ Sim becomes fully pitch black after custom tattoos are applied, affecting all ga
 # Attachments
 
  Screenshots: sims4_pitch_black_CAS.jpg
- sims4_pitch_black_living_mode
+ 
+ sims4_pitch_black_living_mode.jpg
