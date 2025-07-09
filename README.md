@@ -20,7 +20,7 @@ Below are some of my reports and test documentation.
 
 
 
-🎮 **About Me**
+# 🎮 **About Me**
 
 I'm especially passionate about narrative-driven games like the Persona series, The Sims, Alice: Madness Returns, and other iconic titles from EA’s catalog. I specialize in detailed manual testing, clear bug reporting, and writing reproducible test cases that improve player experiences.
 
