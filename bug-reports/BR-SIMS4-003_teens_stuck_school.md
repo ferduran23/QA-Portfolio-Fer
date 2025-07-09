@@ -30,4 +30,4 @@ The Sim leaves the lot briefly, returns immediately, and repeatedly attempts to 
 
 ## Attachments
 
-school_commute_loop
+school_commute_loop.jpg
