@@ -1,6 +1,6 @@
 # Sims 4 – Sims with Custom Tattoos Turn Pitch Black After Applying (Windows/Mac)
 
-**ID**: BR-SIMS4-003
+**ID**: BR-SIMS4-002
 
 **Title**: Sims 4 – Sims with Custom Tattoos Turn Pitch Black After Applying (Windows/Mac)
 
