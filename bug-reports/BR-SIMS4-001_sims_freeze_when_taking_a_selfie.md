@@ -1,8 +1,8 @@
-# The Sims 4: Sim Freezes After Taking a Selfie
+# The Sims 4 - Sim Freezes After Taking a Selfie
 
 **ID:** BR-SIMS4-001
 
-**Title:** The Sims 4: Sim Freezes After Taking a Selfie
+**Title:** The Sims 4 - Sim Freezes After Taking a Selfie
 
 **Severity**: High
 
