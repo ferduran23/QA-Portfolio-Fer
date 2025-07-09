@@ -12,6 +12,7 @@ Below are some of my reports and test documentation.
 - [Build Crash on Loading Screen – LMB Spam](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5bd12b905677aaba9754655941ab4f57f4bbd6a6/bug-reports/BR-DOTA2-001_lmb_crash_loading_screen.md)
 - [The Sims 4 - Sims with Customizable Tattoos Become Pitch Black](https://github.com/ferduran23/QA-Portfolio-Fer/blob/1b70d36c471df871020e2052857f78702be7ed16/bug-reports/BR-SIMS4-002_sims_with_tattoos_turning_pitch_black.md)
 - [The Sims 4 - Sim Freezes After Taking a Selfie](https://github.com/ferduran23/QA-Portfolio-Fer/blob/62cf147fd0a513abd8cf4c38900c2085d9caacc9/bug-reports/BR-SIMS4-001_sims_freeze_when_taking_a_selfie.md)
+- [The Sims 4 - Teen Sims Get Stuck in School Commute Loop](https://github.com/ferduran23/QA-Portfolio-Fer/blob/c502c0fe6f58cb78915a6e46f63869364db96c6e/bug-reports/BR-SIMS4-003_teens_stuck_school.md)
 # Test Cases
 - [Persona 5 Royal – Character Costume Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/7fcff482796b5a6e62ef6ef32564b8f1063be9ae/test-cases/costume_change_test.md)
 - [Alice Return to Madness - Weapon Clipping During Gameplay](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f0a7eade4704686fdcecdf974d9764ca24eaa97e/test-cases/weapon_clipping_test.md)
