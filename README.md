@@ -2,7 +2,7 @@
 Welcome to my QA portfolio! I'm passionate about video game quality assurance and enjoy finding bugs while playing, writing test cases, and helping make gameplay better for everyone. 
 
 # Resume
-You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/323b74f4e52bf3a3c9272eac181a7f2cb51b9e9b/Fernanda_Duran_QA_CV.pdf).
+You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
 Below are some of my reports and test documentation.
 
