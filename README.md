@@ -13,14 +13,14 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 
 Below are some of my bootcamp projects and independent projects.
 
-# QA Software Projects
+## QA Software Projects
 - [GTA IV – Final Mission Helicopter Bug](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f13a09e38c903711eca7219c4e74ce277a302f40/bug-reports/BR-GTA4-001_final_mission_camera_glitch.md)
 - [Alice Madness Returns – Character Model Clipping](https://github.com/ferduran23/QA-Portfolio-Fer/blob/9a86373812466b72f6910091ba630a61cb44e6b9/bug-reports/BR-AMR-001_weapon_clipping.md)
 - [Build Crash on Loading Screen – LMB Spam](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5bd12b905677aaba9754655941ab4f57f4bbd6a6/bug-reports/BR-DOTA2-001_lmb_crash_loading_screen.md)
 - [The Sims 4 - Sims with Customizable Tattoos Become Pitch Black](https://github.com/ferduran23/QA-Portfolio-Fer/blob/1b70d36c471df871020e2052857f78702be7ed16/bug-reports/BR-SIMS4-002_sims_with_tattoos_turning_pitch_black.md)
 - [The Sims 4 - Sim Freezes After Taking a Selfie](https://github.com/ferduran23/QA-Portfolio-Fer/blob/62cf147fd0a513abd8cf4c38900c2085d9caacc9/bug-reports/BR-SIMS4-001_sims_freeze_when_taking_a_selfie.md)
 - [The Sims 4 - Teen Sims Get Stuck in School Commute Loop](https://github.com/ferduran23/QA-Portfolio-Fer/blob/c502c0fe6f58cb78915a6e46f63869364db96c6e/bug-reports/BR-SIMS4-003_teens_stuck_school.md)
-# Test Cases
+## Test Cases
 - [Persona 5 Royal – Character Costume Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/7fcff482796b5a6e62ef6ef32564b8f1063be9ae/test-cases/costume_change_test.md)
 - [Alice Return to Madness - Weapon Clipping During Gameplay](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f0a7eade4704686fdcecdf974d9764ca24eaa97e/test-cases/weapon_clipping_test.md)
 - [The Sims 4 – Character Outfit Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/011377a4b2a717c4074015da8d756673f7d9b951/test-cases/TC-SIMS4-001_change_outfit_dresser.md)
