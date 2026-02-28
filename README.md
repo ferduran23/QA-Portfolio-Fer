@@ -1,12 +1,12 @@
-# Fer QA Portfolio
-Welcome to my QA portfolio! I'm passionate about video game quality assurance and enjoy finding bugs while playing, writing test cases, and helping make gameplay better for everyone. 
+# About This Portfolio
+Welcome to my QA portfolio! I'm passionate about software quality assurance and enjoy identifying defects, creating test cases, and contributing to reliable, high-quality user experiences.
 
 # Resume
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
-Below are some of my reports and test documentation.
+Below are some of my bootcamp projects and independent projects.
 
-# Bug Reports
+# QA Software Projects
 - [GTA IV – Final Mission Helicopter Bug](https://github.com/ferduran23/QA-Portfolio-Fer/blob/f13a09e38c903711eca7219c4e74ce277a302f40/bug-reports/BR-GTA4-001_final_mission_camera_glitch.md)
 - [Alice Madness Returns – Character Model Clipping](https://github.com/ferduran23/QA-Portfolio-Fer/blob/9a86373812466b72f6910091ba630a61cb44e6b9/bug-reports/BR-AMR-001_weapon_clipping.md)
 - [Build Crash on Loading Screen – LMB Spam](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5bd12b905677aaba9754655941ab4f57f4bbd6a6/bug-reports/BR-DOTA2-001_lmb_crash_loading_screen.md)
@@ -23,11 +23,10 @@ Below are some of my reports and test documentation.
 
 ## 🎮 **About Me**
 
-I'm especially passionate about narrative-driven games like the Persona series, The Sims, Alice: Madness Returns, and other iconic titles from EA’s catalog. I specialize in detailed manual testing, clear bug reporting, and writing reproducible test cases that improve player experiences.
+I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I specialize in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries.
 
-I’m experienced using Jira, Trello, and Notion to manage tasks, track bugs, and document testing progress. For version control, I work with Git and GitHub to organize test cases, bug reports, and collaborate on QA workflows.
-I write and maintain QA documentation using Markdown and organize data in tools like Excel and Google Sheets. I focus heavily on creating clear test case designs, detailed reproduction steps, and assigning accurate severity levels to issues.
+I have experience designing and executing test cases, performing software validation, and managing bug reporting and tracking processes within agile development environments. My analytical and detail-oriented approach allows me to identify defects efficiently, explore edge cases, and help optimize development workflows to improve overall product quality.
 
-Most of my testing experience comes from working on PC, Xbox Series S, and PlayStation 5 (via backward compatibility), where I specialize in gameplay and visual bug detection.
+I work with tools such as Jira, Trello, and Notion for task management and defect tracking, and use Git and GitHub for version control and QA documentation management. I create and maintain testing documentation using Markdown while organizing test data and results in Excel and Google Sheets.
 
-My QA strengths are in manual testing, thorough bug reproduction, exploring edge cases, and ensuring both story-driven and simulation games deliver a smooth and immersive experience for players.
+Additionally, I have foundational experience in test automation using Python and working with databases and SQL for data validation and backend testing support. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences.
