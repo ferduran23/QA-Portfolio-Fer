@@ -24,6 +24,7 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 
 # Bootcamp QA Engineer Projects
 - [Urban Grocers API](https://github.com/ferduran23/urban-grocers-backend-testing).
+- [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional/blob/cb0cba4d643685284e59a3e8f3190f52fd1c89e3/README.md).
 
 
 
