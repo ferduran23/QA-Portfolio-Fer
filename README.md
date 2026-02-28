@@ -4,10 +4,17 @@ I am a junior QA engineer focused on software testing and quality assurance, wit
 
 I have experience designing and executing test cases, performing software validation, and managing bug reporting and tracking processes within agile development environments. My analytical and detail-oriented approach allows me to identify defects efficiently, explore edge cases, and help optimize development workflows to improve overall product quality.
 
-## Tools: 
-- Jira, Trello, and Notion for task management and defect tracking
-- GitHub for version control and QA documentation management.
-- Excel to organize test data and results.
+## Tools and Technical Skils: 
+
+| Area | Tools / Technologies |
+|------|----------------------|
+| Manual Testing | Google Sheets |
+| Test Automation | Selenium, Pytest, WebDriverWait |
+| API Testing | Postman, JSON |
+| Database | PostgreSQL |
+| Version Control | Git, GitHub |
+| Communication | Discord |
+| Documentation | Notion, Google Docs |
 
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
