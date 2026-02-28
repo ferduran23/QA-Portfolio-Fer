@@ -1,4 +1,4 @@
-## **About Me**
+# **About Me**
 
 I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I specialize in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries.
 
