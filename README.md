@@ -1,5 +1,12 @@
-# About This Portfolio
-Welcome to my QA portfolio! I'm passionate about software quality assurance and enjoy identifying defects, creating test cases, and contributing to reliable, high-quality user experiences.
+## **About Me**
+
+I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I specialize in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries.
+
+I have experience designing and executing test cases, performing software validation, and managing bug reporting and tracking processes within agile development environments. My analytical and detail-oriented approach allows me to identify defects efficiently, explore edge cases, and help optimize development workflows to improve overall product quality.
+
+I work with tools such as Jira, Trello, and Notion for task management and defect tracking, and use Git and GitHub for version control and QA documentation management. I create and maintain testing documentation using Markdown while organizing test data and results in Excel and Google Sheets.
+
+Additionally, I have foundational experience in test automation using Python and working with databases and SQL for data validation and backend testing support. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences.
 
 # Resume
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
@@ -19,14 +26,3 @@ Below are some of my bootcamp projects and independent projects.
 - [The Sims 4 – Character Outfit Change](https://github.com/ferduran23/QA-Portfolio-Fer/blob/011377a4b2a717c4074015da8d756673f7d9b951/test-cases/TC-SIMS4-001_change_outfit_dresser.md)
 - [The Sims 4 – Character Takes a Selfie and Freezes](https://github.com/ferduran23/QA-Portfolio-Fer/blob/5135bd460eabd5b97524ef0f823545ed31cbb838/test-cases/TC-SIMS4-002_selfie_freeze.md)
 
-
-
-## 🎮 **About Me**
-
-I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I specialize in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries.
-
-I have experience designing and executing test cases, performing software validation, and managing bug reporting and tracking processes within agile development environments. My analytical and detail-oriented approach allows me to identify defects efficiently, explore edge cases, and help optimize development workflows to improve overall product quality.
-
-I work with tools such as Jira, Trello, and Notion for task management and defect tracking, and use Git and GitHub for version control and QA documentation management. I create and maintain testing documentation using Markdown while organizing test data and results in Excel and Google Sheets.
-
-Additionally, I have foundational experience in test automation using Python and working with databases and SQL for data validation and backend testing support. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences.
