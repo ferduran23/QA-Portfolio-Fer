@@ -1,14 +1,13 @@
 # **About Me**
 
-I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I have foundational experience in test automation using Python, as well as working with databases and SQL for data validation and backend testing support. I am also experienced in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries.
-
- My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences. 
+I am a junior QA engineer focused on software testing and quality assurance, with a strong interest in interactive and user-centered applications, including gaming environments. I have foundational experience in test automation using Python, as well as working with databases and SQL for data validation and backend testing support. I am also experienced in manual testing, test case design, and structured defect reporting, contributing to early bug detection and supporting reliable software deliveries. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences. 
 
 I have experience designing and executing test cases, performing software validation, and managing bug reporting and tracking processes within agile development environments. My analytical and detail-oriented approach allows me to identify defects efficiently, explore edge cases, and help optimize development workflows to improve overall product quality.
 
-I work with tools such as Jira, Trello, and Notion for task management and defect tracking, and use Git and GitHub for version control and QA documentation management. I create and maintain testing documentation using Markdown while organizing test data and results in Excel and Google Sheets.
-
-Additionally, I have foundational experience in test automation using Python and working with databases and SQL for data validation and backend testing support. My focus is on quality control practices that ensure functionality, usability, and system stability across platforms, helping deliver consistent and high-quality user experiences.
+## Tools: 
+- Jira, Trello, and Notion for task management and defect tracking
+- GitHub for version control and QA documentation management.
+- Excel to organize test data and results.
 
 # Resume
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
