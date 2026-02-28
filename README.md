@@ -11,7 +11,9 @@ I have experience designing and executing test cases, performing software valida
 
 You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfolio-Fer/blob/45a57f4b07a190cbfe304e8248acd18f38ddb56e/QA%20CV%202026.pdf).
 
-# Contact information
+# Contact Information
+- Email: phoebed298@gmail.com
+- Phone: +57 3133377242
 
 ## Bootcamp QA Engineer Projects
 
