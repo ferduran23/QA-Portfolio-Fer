@@ -23,7 +23,7 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 - Phone: +57 3133377242
 
 # Bootcamp QA Engineer Projects
-- [Urban Grocers API](https://github.com/ferduran23/QA-Portfolio-Fer/blob/e295d1711b33a8364b51a1ba978b6b3c9cb759e3/Urban%20Grocers%20API](https://github.com/ferduran23/urban-grocers-backend-testing/blob/675e54fa69068361ebe359ff5302f010de843337/README.md]
+- [Urban Grocers API](https://github.com/ferduran23/urban-grocers-backend-testing/blob/675e54fa69068361ebe359ff5302f010de843337/README.md).
 
 
 
