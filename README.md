@@ -23,7 +23,7 @@ You can view or download my QA CV [here](https://github.com/ferduran23/QA-Portfo
 - Phone: +57 3133377242
 - [Linkedin](https://www.linkedin.com/in/fernanda-dur%C3%A1n-415a8425b/).
 
-# Bootcamp QA Engineer Projects
+# QA Engineer Projects
 - [Urban Grocers API](https://github.com/ferduran23/urban-grocers-backend-testing).
 - [Urban Routes Functional Testing](https://github.com/ferduran23/urban-routes-functional).
 
